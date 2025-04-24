@@ -36,5 +36,5 @@ To get started with the app, you need to have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/conversational-ai-app.git
+   git clone https://github.com/Kalyani694/Chat-with-AI.git
    cd conversational-ai-app
